@@ -1,12 +1,29 @@
-🏠 Property Management System – Java OOP Project
+🏠 Property Management System (Java)
 
-This project is a simple console application written in Java to practice Object-Oriented Programming (OOP) concepts such as:
+A simple console-based OOP project that manages rental properties
+and calculates their monthly costs and total revenue.
 
-Classes & Objects
-Constructors
-Arrays of Objects
-Methods & Encapsulation
-User Input Handling
-Basic Validation
+────────────────────────────────────────
 
-The program allows the user to enter multiple properties, calculate their maintenance costs, and compute total monthly revenue.
+📌 Features
+• Add multiple properties
+• Store property details
+• Calculate property age automatically
+• Compute maintenance fee based on age
+• Calculate total monthly cost
+• Count expensive properties (> $2500)
+• Calculate total monthly revenue
+
+────────────────────────────────────────
+
+🧠 OOP Concepts Used
+• Classes & Objects
+• Constructors
+• Methods & Encapsulation
+• Arrays of Objects
+• User Input (Scanner)
+
+────────────────────────────────────────
+
+🎯 Purpose
+Practice Java OOP fundamentals and object arrays.
